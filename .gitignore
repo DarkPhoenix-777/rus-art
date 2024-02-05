@@ -1,0 +1,7 @@
+.idea
+__pycache__
+data/
+embeddings.csv
+embeddings_flipped.csv
+embeddings_perspective.csv
+embeddings_rotated.csv
